@@ -20,4 +20,9 @@
     <string name="ALARM2">Lock all the windows and doors</string>
     <string name="UIHM">User in home mode</string>
     <string name="ULM">User leave mode</string>
+    <string name="PD">Please Download Application on your smart phone!</string>
+    <string name="RN">Receive notice from AI assistant</string>
+    <string name="ALFS">Allow AI assistant collect information via your smart phone\'s microphone and cemera</string>
+    <string name="ALE">Allow user check Energy cost and cotrol devices via application</string>
+    <string name="SYNC">Sync scene mode settings from Application</string>
 </resources>
