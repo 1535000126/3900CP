@@ -12,4 +12,7 @@
     <string name="Cemera">Cemera Privacy Level</string>
     <string name="MIC">Microphone Privacy Level</string>
     <string name="PR3">Only allow robot assistent move around in living room</string>
+    <string name="AM">Active Mode</string>
+    <string name="PM">Passive Mode</string>
+    <string name="EM">Emergency Mode</string>
 </resources>
