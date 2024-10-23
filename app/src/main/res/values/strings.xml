@@ -15,4 +15,9 @@
     <string name="AM">Active Mode</string>
     <string name="PM">Passive Mode</string>
     <string name="EM">Emergency Mode</string>
+    <string name="ALARM">"Alarm when user leave home and detect someone want to enter this house from door or windows "</string>
+    <string name="ALARM3">Notice user by App when alarming</string>
+    <string name="ALARM2">Lock all the windows and doors</string>
+    <string name="UIHM">User in home mode</string>
+    <string name="ULM">User leave mode</string>
 </resources>
