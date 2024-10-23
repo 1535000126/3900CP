@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="SS">System Settings</string>
+    <string name="P">Privacy</string>
+    <string name="A">Active mode</string>
+    <string name="D">Data management</string>
+    <string name="S">Security</string>
+    <string name="R">Remote Control</string>
+    <string name="Cl">Clear Data</string>
+    <string name="AL">Allow AI learn your daily routine from collected data</string>
+    <string name="AL1">Authorize the sharing of personal data with the company to improve users\' experiences</string>
+    <string name="Cemera">Cemera Privacy Level</string>
+    <string name="MIC">Microphone Privacy Level</string>
+    <string name="PR3">Only allow robot assistent move around in living room</string>
+</resources>
